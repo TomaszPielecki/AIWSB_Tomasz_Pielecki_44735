@@ -1,6 +1,8 @@
 tab=[15,35,20,25,45,65]
-tab.append(75)
-print("Tablica po zmianie",tab)
-print(len(tab))
-print(tab[1:3])
-print(tab[0:6])
+
+tab.reverse()
+print(tab)
+print(tab.pop(3))
+print(max(tab))
+print(sum(tab))
+print(sum(tab)/len(tab))
