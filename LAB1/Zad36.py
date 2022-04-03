@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('miasta.csv')
+df = pd.read_csv('D:\AI\miasta.csv')
 print(df)
 
 dziesiata = {
