@@ -1,0 +1,5 @@
+Algorithm runtime= 0.015639305114746094
+Parameters of the best solution : [1. 1. 1. 1. 1. 0. 0. 1. 0. 1. 0. 0. 0. 1. 1.]
+Fitness value of the best solution = -2.0
+Predicted output based on the best solution : 251.0
+How many generations passed untill the best solution: 30
